@@ -1,0 +1,9 @@
+LGA,Stations,Lat.(Y),Long(X),Mean(onset),Mean_date,Earliest(onset),Earliest_date,Year,Latest(onset),Latest_date,Year,CV (%)
+Makurdi,Makurdi,854569.00,448846.00,90,31th March ,49,18th Feb ,2003,121,1st May ,2011,13.53
+Otukpo,Otukpo,803396.00,397029.00,82,23rd March ,38,7th Feb ,2003,118,28th April ,1991,17.81
+Gboko,Gboko,810129.00,572448.00,81,22nd March ,40,9th Feb ,2003,102,12th April ,1990,15.73
+Vandeikya,Vandeikya,750105.00,508011.00,70,11th March ,33,2nd Feb ,2003,97, 7th April ,1990 & 2000,19.31
+Ukum,Zakibiam,829530.00,566964.00,90,30th March ,55,24th Feb ,2003,111,21st April,2011,14.26
+Ado,Igumale,750964.00,385474.00,80,21st March ,38,7th Feb ,2003,103,13th April ,1990,18.82
+Apa,Bopo,837663.00,379351.00,87,28th March ,47,16th Feb,2003,107,17th April ,2011 & 2012,15.38
+Kastina-Ala,Kastina-Ala,792491.00,531958.00,83,24th March ,41,10th Feb ,2003,111,21st April ,2011,16.37

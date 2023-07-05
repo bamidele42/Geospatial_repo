@@ -1,0 +1,9 @@
+Stations,Lat.(Y),Long(X),Mean(Cessation),Mean_date,Earliest(Cessation),Earliest_date,Year,Latest(Cessation),Latest_date,Year,CV (%)
+Makurdi,7.731,8.5363,298,25th Oct. ,285,22nd Oct. ,1996,319,15th Nov ,1990,2.29
+Otukpo,7.2674,8.0672,303,30th Oct. ,290,17th Oct. ,1998,331,27th Nov. ,1990,3.27
+Gboko,7.3287,9.0066,306,2nd Nov. ,275,2nd Oct. ,1994,330,26th Nov. ,2015,3.98
+Vandeikya,6.7863,9.0724,311,7th Nov. ,274,1st Oct. ,1995,344,11th Dec. ,1990,4.35
+Zakibiam,7.5042,9.607,300,27th Oct. ,288,15th Oct. ,2017,322,18th Nov. ,1990,2.26
+Igumale,6.7928,7.9636,303,30th Oct. ,291,18th Oct. ,1998,328,28th Nov. ,1990,2.86
+Bopo,7.6672,7.906,299,26th Oct. ,287,14th Oct. ,2017,320,16th Nov. ,1990,2.24
+Kastina-Ala,7.1695,9.2876,305,1st Nov,292,19th Oct. ,2017,332,28th Nov. ,1994,3.06
